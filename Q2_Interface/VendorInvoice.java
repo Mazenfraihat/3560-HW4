@@ -1,4 +1,3 @@
-// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
 public class VendorInvoice implements Payable {
    private String vendorName;
    private String invioceNumber;
